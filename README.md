@@ -1,10 +1,34 @@
-Productive is basically a software solution which acts as one stop solution for being productive. The main idea about the project is that every thing we do in daily life are related and they determine the overall productivity rather than them all being isolated things. If you don’t get your TODO finished in time, your routine gets distorted, your streak breaks, your mood fades. So every thing are connected unlike the productivity apps of current generation. But, as they say “Every time you write a todo app, you kill a kitten”, so we are not actually going to write todo app but todo will be a very small part of the project.
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. Why ?</a></li>
+<li><a href="#sec-2">2. How</a></li>
+<li><a href="#sec-3">3. what ?</a></li>
+<li><a href="#sec-4">4. Some More</a></li>
+</ul>
+</div>
+</div>
 
+# Why ?<a id="sec-1" name="sec-1"></a>
 
-We should not be using 10 different apps just to be productive, they are instead making us unproductive. So the major focus will be on reusing the data the user has inserted. For example, if a user has typed todo and marked it as complete, that should be automatically be imported to the journal/diary part of productivity app. If A user has tasks list and he wants to run pomodoro, he should not be opening another app, he should be able to do that in the same app, just by clicking a button or doing a gesture.
+**Becuase** 
+-   We should not be using 10 different apps just to be productive, which in-turn are making us inefficient.
+-   One solid solid software solution to make users productive.
+-   It is not, yet another TODO app.
 
+# How<a id="sec-2" name="sec-2"></a>
 
-If a user is using habit management app to keep track of his habits, he does not have to use another routine app to access the routine and the list goes on. They are very tightly coupled, yet we are having to use two different types of apps to do that.
-At the beginning we will be doing Android project, then when necessary we will do some server side probably in spring with #kotlin . And hopefully not so far from now we will also have app for other platforms too.
+**BY**
+-   Reusing the user data. e.g if a user has marked, **TODO** as complete, that should be automatically be imported to the journal/diary.
+-   If a user has tasks list and he wants to **run pomodoro**, he is not required to open another app.
+-   extensive use of guesture and prediction modelling according to user behaviour.
+-   Comes with assistance feature like google photos.
 
-I hope for your feedback and pull request or issues regarding the project, let’s make a better productivity app for everyone. Please feel free to be a part of it.
+# what ?<a id="sec-3" name="sec-3"></a>
+
+Productive is basically a software solution which acts as one stop solution for being productive. The main idea behind the project is, that daily activities are related and they determine the overall productivity rather than them all being isolated. 
+
+# Some More<a id="sec-4" name="sec-4"></a>
+
+[MEDIUM BLOG](https://medium.com/@erluxman/new-open-source-project-productive-ab928e419c3c)
